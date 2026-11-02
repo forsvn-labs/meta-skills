@@ -181,3 +181,10 @@ The portable agent package is MIT-licensed under [`LICENSE`](LICENSE).
 
 The desktop and Rust experiments in the parent monorepo are not part of this package and are
 not covered by this license.
+
+## Project records
+
+- [VISION.md](VISION.md): draft direction, assumptions, and open questions.
+- [BRAIN.md](BRAIN.md): knowledge locations and access rules.
+- [PROGRESS.md](PROGRESS.md): current state, gates, and next steps.
+- [STRUCTURE.md](STRUCTURE.md): package map and required reading.
